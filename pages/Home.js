@@ -15,7 +15,7 @@ import {
 import MoneyBubbles from '../components/MoneyBubbles';
 
 // Placeholder URL - User needs to replace this
-const API_URL = "https://api.example.com/send-message";
+const API_URL = "https://script.google.com/macros/s/AKfycbwPzwgAOjV_4H3xznz0ebd8ZvhyGrvCc8AcLXz_ZL-I/exec";
 
 export default function Home() {
   const [message, setMessage] = useState("");
