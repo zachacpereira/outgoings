@@ -6,7 +6,7 @@ import { Send, AlertCircle } from "lucide-react";
 import MoneyBubbles from "../components/MoneyBubbles";
 
 const API_URL =
-"https://script.google.com/macros/s/AKfycbyp2kNg5Q9WuX8LrLaQCRA_j9eQsinKHHMslNvrWRyM3Uf4jFXbIMl9b_5lMoUppKTbUQ/exec";
+"https://script.google.com/macros/s/AKfycbzjpWoIP0hP2Q0ceXJrHMwegLJGL2tYlQRbej0X69tV-IWPd7e8HZNI7fUECE2AJQ9GfQ/exec";
 
 export default function Home() {
   const [message, setMessage] = useState("");
